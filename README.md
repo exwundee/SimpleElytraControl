@@ -1,0 +1,2 @@
+# SimpleElytraControl
+Toggle elytra use.
