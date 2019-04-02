@@ -16,7 +16,7 @@ This is for server owners who wish to disable elytras temporarily. In the config
 
 ## Commands
 
-- **/toggleelytra** - Changes your nickname. (exw.sec.te)
+- **/toggleelytra** - Toggles `isElytraDisabled`. Revise "Use of Plugin". (exw.sec.te)
   - Aliases: \[telytra, sec, te\]
 
 ## Terms of Service
