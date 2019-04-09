@@ -1,0 +1,11 @@
+name: SimpleElytraControl
+version: 1.0-SNAPSHOT
+author: x1D
+
+main: xyz.exwundee.SEC.SEC
+
+commands:
+  toggleelytra:
+    description: Toggle the use of the elytra.
+    permission: exw.sec.te
+    aliases: [telytra, sec, te]
