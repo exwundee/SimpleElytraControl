@@ -6,6 +6,10 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.plugin.Plugin;
 import xyz.exwundee.SEC.SEC;
 
+/**
+ * Created by Nicholas on 2019-04-08.
+ * Modified by Nicholas on 2019-04-08.
+ */
 public class ElytraCommand implements CommandExecutor {
 
     public static Plugin plugin = SEC.getPlugin();
